@@ -3,15 +3,15 @@ Atividade de Arquitetura de Softwares
 
 Um joguinho simples onde você cura seus quatro heróis antes de partir para uma jornada.
 
-receiver:
+receiver:<br />
 Hero.java.
 
-command:
-Command.java (interface);
+command:<br />
+Command.java (interface);<br />
 cur*Command.java.
 
-invoker:
-Invoker.java
+invoker:<br />
+Invoker.java.
 
-client:
-Phantasy.java
+client:<br />
+Phantasy.java.
